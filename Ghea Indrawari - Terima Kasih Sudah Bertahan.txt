@@ -15,11 +15,11 @@ Ada yang berbeda darimu
 Kau lebih dari itu
 
 T'rima kasih sudah bertha
-T'rima kasih sudah berjuang(dista)
+T'rima kasih sudah berjuang
 Ternyata kau sekuat itu
 Ternyata kau sehebat itu
 
-T'rima kasih kau tak berhenti
+T'rima kasih kau tak berhenti(dista)
 T'rima kasih kau tak menyerah
 Di pertarungan yang sengit ini
 Kau 'kan, kau 'kan menang
@@ -40,3 +40,6 @@ Kau 'kan, kau 'kan menang
 
 Percaya, serahkan sisanya kepada semesta
 Semua akan indah pada waktunya
+
+
+T'rima kasih sudah bertahan
